@@ -1,0 +1,212 @@
+PowerPoint 0.01
+Business 0.01
+Presentation 0.01
+Keynote 0.01
+Adobe InDesign 0.01
+UI Design 0.01
+Voice 0.01
+Male 0.01
+Over 0.01
+Female 0.01
+Acting 0.01
+Narration 0.01
+Bookkeeping 0.01
+Xero 0.01
+Songwriting 0.01
+Piano 0.01
+Composition 0.01
+Cold 0.01
+Calling 0.01
+Packaging 0.01
+Planning 0.01
+Management 0.01
+Event 0.01
+Project 0.01
+Customer 0.01
+Video Production 0.01
+Video Design 0.01
+Consulting 0.01
+Copyediting 0.01
+Construction 0.01
+Reporting 0.01
+Grant 0.01
+Ad 0.01
+Merchandise 0.01
+Instagram 0.01
+Pinterest 0.01
+SCSS 0.01
+API 0.01
+Studio 0.01
+Documentation 0.01
+People 0.01
+Design 0.01
+Thinking 0.01
+Outlook 0.01
+Docs 0.01
+Outlook Development 0.01
+Patent 0.01
+Intellectual 0.01
+Property 0.01
+React.js 0.01
+Responsive Design 0.01
+Windows 0.01
+Resume 0.01
+Cover 0.01
+Letter 0.01
+3D Design 0.01
+Copywriting 0.01
+Eagle 0.01
+Circuit Design 0.01
+Electronic Design 0.01
+PCB Design 0.01
+Webstore 0.01
+FBA 0.01
+Seller 0.01
+Central 0.01
+Logo Design 0.01
+Forecasting 0.01
+FFmpeg 0.01
+OpenGL 0.01
+DirectShow 0.01
+Video Streaming 0.01
+Embedded 0.01
+C++ 0.01
+RTOS 0.01
+GStreamer 0.01
+C 0.01
+C# 0.01
+ASP.NET 0.01
+MVC 0.01
+MWS 0.01
+iOS Development 0.01
+Apple 0.01
+Xcode 0.01
+Shopping 0.01
+Academic 0.01
+Liferay 0.01
+Mobile 0.01
+Responsive 0.01
+VBA 0.01
+SEMrush 0.01
+Off-page 0.01
+On-Page 0.01
+B2B 0.01
+Sales 0.01
+Brand Development 0.01
+Branding 0.01
+Comic 0.01
+Adobe Dreamweaver 0.01
+2D 0.01
+3dCart 0.01
+Humor 0.01
+Character 0.01
+Animation 0.01
+Tablet 0.01
+and 0.01
+Chat 0.01
+Messaging 0.01
+Security 0.01
+Vulnerability 0.01
+Assessment 0.01
+Functional 0.01
+Testing 0.01
+Web 0.01
+Outreach 0.01
+Community 0.01
+Communications 0.01
+Articulate 0.01
+Fundraising 0.01
+Search 0.01
+(SEO) 0.01
+Keyword 0.01
+Engine 0.01
+Illustration 0.02
+iPad 0.02
+Audio 0.02
+Bank 0.02
+Reconciliation 0.02
+Adobe Premiere 0.02
+Pro 0.02
+Cut 0.02
+Final 0.02
+Video Post 0.02
+Appointment 0.02
+Telephone 0.02
+Setting 0.02
+Generation 0.02
+Lead 0.02
+Adobe After 0.02
+Effects 0.02
+Legal 0.02
+Financial 0.02
+Blog Development 0.02
+CSS3 0.02
+Analytics 0.02
+Medical 0.02
+Law 0.02
+Layout Design 0.02
+WordPress 0.02
+Print 0.02
+Engineering 0.02
+Electrical 0.02
+Framework 0.02
+.NET 0.02
+NetSuite 0.02
+Administration 0.02
+NetSuite Development 0.02
+Android 0.02
+iOS 0.02
+PPC 0.02
+Building 0.02
+Link 0.02
+App Development 0.02
+Shopify 0.02
+Optimization 0.02
+Strategy 0.02
+Phone 0.02
+Proofreading 0.03
+Social 0.03
+Media 0.03
+Accounting 0.03
+Assistant 0.03
+Virtual 0.03
+Ghostwriting 0.03
+Analysis 0.03
+JavaScript 0.03
+Amazon 0.03
+Grammar 0.04
+Graphic Design 0.04
+Facebook 0.04
+Video Editing 0.04
+Entry 0.04
+Administrative 0.04
+Website Development 0.04
+HTML5 0.04
+Google 0.04
+Photography 0.04
+Photo 0.04
+Retouching 0.04
+English 0.05
+SEO 0.05
+Handling 0.05
+Microsoft 0.05
+Excel 0.05
+Email 0.05
+Support 0.05
+Data 0.05
+Adobe Illustrator 0.06
+Internet 0.06
+Adobe Photoshop 0.07
+Blog 0.07
+Article 0.07
+Marketing 0.07
+HTML 0.07
+CSS 0.07
+Web Design 0.07
+Research 0.07
+Creative 0.08
+Editing 0.11
+Content Writing 0.14
+Writing 0.17
+<untagged> 0.19
+more 0.28
